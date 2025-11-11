@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Core Projects
+### 🚀 Recent Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
