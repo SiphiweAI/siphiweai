@@ -11,10 +11,10 @@
 
 | Project | Description | Tech Stack | Link |
 |----------|--------------|-------------|------|
-| **The Raven** | A supply chain management tool | php, Python, Javascript | [GitHub](https://github.com/SiphiweAI/the-raven/) |
-| **[Cloud Trader](https://github.com/siphiweai/containerised-trader)** | Containerized trading automation environment integrating Flask, Celery, Redis, and Fly.io. | Python • Flask • Celery • PostgreSQL • Redis • Fly.io | [🔗 Repo](https://github.com/siphiweai/containerised-trader) |
-| **Equipment Rental AWS Migration** | Terraform infrastructure migration from Azure → AWS (secure, POPIA-compliant). | Terraform • AWS • GitHub Actions | [🔗 View](#) |
-| **Token Tool API** | FastAPI service for token counting, summarization, and truncation — built for LLM pipelines. | Python • FastAPI • Hugging Face • BART | [🔗 View](#) |
+| **The Raven** | A supply chain management tool | php, Python, Javascript | [🔗 View](https://github.com/SiphiweAI/the-raven/) |
+| **[Cloud Trader](https://github.com/siphiweai/containerised-trader)** | Containerized trading automation environment integrating Flask, Celery, Redis, and Fly.io. | Python • Flask • Celery • PostgreSQL • Redis • Fly.io | [🔗 View](https://github.com/siphiweai/containerised-trader) |
+| **Equipment Rental AWS Migration** | Terraform infrastructure migration from Azure → AWS (secure, POPIA-compliant). | Terraform • AWS • GitHub Actions | [🔗 View]((https://github.com/SiphiweAI/AWS-Migration-for-a-Equipment-Rental-Company)) |
+| **Token Tool API** | FastAPI service for token counting, summarization, and truncation — built for LLM pipelines. | Python • FastAPI • Hugging Face • BART | [🔗 View](https://github.com/SiphiweAI/token-tool) |
 
 ---
 
