@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Siphiwe — Data Engineer & Automation Specialist</h1>
+<h1 align="center">👋 Hi, I'm Siphiwe - Data Engineer & Automation Specialist</h1>
 
 <p align="center">
   <b>Data Engineering • AI/ML • Automation • Cloud Infrastructure</b><br>
@@ -14,7 +14,7 @@
 | **[The Raven](https://github.com/SiphiweAI/the-raven/)** | A supply chain management tool | php, Python, Javascript |
 | **[Cloud Trader](https://github.com/siphiweai/containerised-trader)** | Containerized trading automation environment integrating Flask, Celery, Redis, and Fly.io. | Python • Flask • Celery • PostgreSQL • Redis • Fly.io |
 | **[Equipment Rental AWS Migration](https://github.com/SiphiweAI/AWS-Migration-for-a-Equipment-Rental-Company)** | Terraform infrastructure migration from Azure → AWS (secure, POPIA-compliant). | Terraform • AWS • GitHub Actions | 
-| **[Token Tool API](https://github.com/SiphiweAI/token-tool)** | FastAPI service for token counting, summarization, and truncation — built for LLM pipelines. | Python • FastAPI • Hugging Face • BART |
+| **[Token Tool API](https://github.com/SiphiweAI/token-tool)** | FastAPI service for token counting, summarization, and truncation - built for LLM pipelines. | Python • FastAPI • Hugging Face • BART |
 
 ---
 
